@@ -1,8 +1,10 @@
 ﻿**DICCIONARIO DE DATOS**
 
 Incluye información sobre el contenido de las columnas de las tablas (en formato .csv) más relevantes incluidas en la carpeta “ETL” del proyecto “Análisis de estadísticas de rendimiento de jugadores de la NBA”.
+<p align='left'>
+<img src="https://img.icons8.com/?size=100&id=N9rvnkaCrJ8h&format=png&color=000000" width="50"> 
 
-![alt text](https://img.icons8.com/?size=100&id=N9rvnkaCrJ8h&format=png&color=000000)**common\_player\_info\_final**
+**common\_player\_info\_final**
 
 |**Nombre columna**|**Tipo**|**Descripción**|**Ejemplo**|
 | :- | :- | :- | :- |
@@ -31,9 +33,12 @@ Incluye información sobre el contenido de las columnas de las tablas (en format
 |draft\_round|entero (string en el caso de undrafted)|Ronda del Draft en la que fue seleccionado el jugador (Undrafted si no fue elegido)|1|
 |draft\_number|entero (string en el caso de undrafted)|Número de orden en que el jugador fue seleccionado en el Draft (Undrafted si no fue elegido).|2|
 |greatest\_75\_flag|String (boolean)|Indica si el jugador fue seleccionado como uno de los 75 mejores jugadores de la historia de la NBA (Y para sí, N para no).|Y|
+</p>
 
+<p align='left'>
+<img src="https://img.icons8.com/?size=256w&id=qGFhaTgkeX1i&format=png" width="50">
 
-![alt textt](https://img.icons8.com/?size=256w&id=qGFhaTgkeX1i&format=png)**draft\_history\_final**
+**draft\_history\_final**
 
 |<a name="_hlk192831600"></a>**Nombre columna**|**Tipo**|**Descripción**|**Ejemplo**|
 | :- | :- | :- | :- |
@@ -51,10 +56,13 @@ Incluye información sobre el contenido de las columnas de las tablas (en format
 |organization|string|Institución donde jugó el jugador antes del Draft (ejemplo: universidad o equipo internacional)|West Virginia|
 |Organization\_type|string|Tipo de institución de donde proviene el jugador (*College/University*, *International*, *High School*)|College/University|
 |player\_profile\_flag|boolean|Indicador de si el jugador tiene un perfil registrado en la base de datos (*1* para sí, *0* para no)|1|
+</p>
 
 
+<p align='left'>
+<img src="https://img.icons8.com/?size=256w&id=VJV9Qy0AKmnK&format=png" width='50'>
 
-![alt text](https://img.icons8.com/?size=256w&id=VJV9Qy0AKmnK&format=png)**games\_lakers\_tres\_temporadas**
+**games\_lakers\_tres\_temporadas**
 
 |**Nombre columna**|**Tipo**|**Descripción**|**Ejemplo**|
 | :- | :- | :- | :- |
@@ -113,8 +121,12 @@ Incluye información sobre el contenido de las columnas de las tablas (en format
 |pts\_away|float|Puntos anotados por el equipo visitante|114\.0|
 |plus\_minus\_away|Entero|Diferencia de puntos (puntos del local – puntos del visitante)|-10|
 |video\_available\_away|boolean|Indicador de disponibilidad de video del partido (1 si hay video, 0 si no)|1|
+</p>
 
-![alt text](https://img.icons8.com/?size=256w&id=LlKqAJgwqBYJ&format=png)**line\_scored\_filtered**
+<p align='left'>
+<img src="https://img.icons8.com/?size=256w&id=LlKqAJgwqBYJ&format=png" width='50'>
+
+**line\_scored\_filtered**
 
 |**Nombre columna**|**Tipo**|**Descripción**|**Ejemplo**|
 | :- | :- | :- | :- |
@@ -129,9 +141,12 @@ Incluye información sobre el contenido de las columnas de las tablas (en format
 |team\_wins\_losses\_away|string|Registro acumulativo por temporada de victorias y derrotas del equipo visitante|2-0|
 |pts\_qtr1\_away a pts\_ot10\_away|float|Puntos del equipo visitante en cada cuarto y tiempo extra (overtime)|39\.0|
 |pts\_away|float|Puntos totales del equipo visitante|124\.0|
+</p>
 
+<p align='left'>
+<img src="https://img.icons8.com/?size=256w&id=WrbqKCA5iaWe&format=png" width='50'>
 
-![alt text](https://img.icons8.com/?size=256w&id=WrbqKCA5iaWe&format=png)**other\_stats\_filtered**
+**other\_stats\_filtered**
 
 |**Nombre columna**|**Tipo**|**Descripción**|**Ejemplo**|
 | :- | :- | :- | :- |
@@ -157,7 +172,7 @@ Incluye información sobre el contenido de las columnas de las tablas (en format
 |total\_turnovers\_away|entero|Total de pérdidas de balón cometidas por el equipo visitante|4|
 |team\_rebounds\_home|entero|Total de rebotes capturados por el equipo local (defensivos + ofensivos)|20|
 |team\_rebounds\_away|entero|Total de rebotes capturados por el equipo visitante (defensivos + ofensivos)|15|
-
+</p>
 
 **COMENTARIOS:**
 
