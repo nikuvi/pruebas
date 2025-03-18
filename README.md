@@ -33,7 +33,7 @@ Incluye información sobre el contenido de las columnas de las tablas (en format
 |greatest\_75\_flag|String (boolean)|Indica si el jugador fue seleccionado como uno de los 75 mejores jugadores de la historia de la NBA (Y para sí, N para no).|Y|
 
 
-![alt text](https://img.icons8.com/?size=256w&id=qGFhaTgkeX1i&format=png)**draft\_history\_final**
+![alt textt](https://img.icons8.com/?size=256w&id=qGFhaTgkeX1i&format=png)**draft\_history\_final**
 
 |<a name="_hlk192831600"></a>**Nombre columna**|**Tipo**|**Descripción**|**Ejemplo**|
 | :- | :- | :- | :- |
