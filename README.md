@@ -174,7 +174,7 @@ Incluye información sobre el contenido de las columnas de las tablas (en format
 |team\_rebounds\_away|entero|Total de rebotes capturados por el equipo visitante (defensivos + ofensivos)|15|
 </p>
 
-**COMENTARIOS:**
+📎**COMENTARIOS:**
 
 - Muchos valores de estas tablas que están en formato float podrían simplificarse a enteros, como rebotes, puntos, tiros libres etc.
 - Muchos valores que están en formato Sting cumplen función booleana, como por ejemplo: active-inactive, yes-no, etc.
