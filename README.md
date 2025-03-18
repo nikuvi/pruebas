@@ -36,7 +36,7 @@ Incluye información sobre el contenido de las columnas de las tablas (en format
 </p>
 
 <p align='left'>
-<img src="https://img.icons8.com/?size=256w&id=qGFhaTgkeX1i&format=png" width="50">
+<img src="https://img.icons8.com/?size=100&id=AeDXKfJw3nCU&format=png&color=000000" width="50">
 
 **draft\_history\_final**
 
@@ -60,7 +60,7 @@ Incluye información sobre el contenido de las columnas de las tablas (en format
 
 
 <p align='left'>
-<img src="https://img.icons8.com/?size=256w&id=VJV9Qy0AKmnK&format=png" width='50'>
+<img src="https://img.icons8.com/?size=100&id=lNNn02YUuPYL&format=png&color=000000" width='50'>
 
 **games\_lakers\_tres\_temporadas**
 
@@ -124,7 +124,7 @@ Incluye información sobre el contenido de las columnas de las tablas (en format
 </p>
 
 <p align='left'>
-<img src="https://img.icons8.com/?size=256w&id=LlKqAJgwqBYJ&format=png" width='50'>
+<img src="https://img.icons8.com/?size=100&id=WrbqKCA5iaWe&format=png&color=000000" width='50'>
 
 **line\_scored\_filtered**
 
@@ -144,7 +144,7 @@ Incluye información sobre el contenido de las columnas de las tablas (en format
 </p>
 
 <p align='left'>
-<img src="https://img.icons8.com/?size=256w&id=WrbqKCA5iaWe&format=png" width='50'>
+<img src="https://img.icons8.com/?size=100&id=lsxgez2i6JlE&format=png&color=000000" width='50'>
 
 **other\_stats\_filtered**
 
