@@ -1,4 +1,4 @@
-﻿📖## DICCIONARIO DE DATOS
+﻿##📖 DICCIONARIO DE DATOS
 
 Incluye información sobre el contenido de las columnas de las tablas (en formato .csv) más relevantes incluidas en la carpeta “ETL” del proyecto “Análisis de estadísticas de rendimiento de jugadores de la NBA”.
 <p align='left'>
