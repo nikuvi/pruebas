@@ -2,7 +2,7 @@
 
 Incluye información sobre el contenido de las columnas de las tablas (en formato .csv) más relevantes incluidas en la carpeta “ETL” del proyecto “Análisis de estadísticas de rendimiento de jugadores de la NBA”.
 
-![alt text](https://img.icons8.com/?size=256w&id=TYbHdZOX61hh&format=png)**common\_player\_info\_final**
+![alt text](https://img.icons8.com/?size=100&id=N9rvnkaCrJ8h&format=png&color=000000)**common\_player\_info\_final**
 
 |**Nombre columna**|**Tipo**|**Descripción**|**Ejemplo**|
 | :- | :- | :- | :- |
