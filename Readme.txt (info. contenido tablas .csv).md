@@ -1,8 +1,8 @@
-﻿**Diccionario de datos**
+﻿**DICCIONARIO DE DATOS**
 
 Incluye información sobre el contenido de las columnas de las tablas (en formato .csv) más relevantes incluidas en la carpeta “ETL” del proyecto “Análisis de estadísticas de rendimiento de jugadores de la NBA”.
 
-**Tabla: common\_player\_info\_final**
+![alt text](https://img.icons8.com/?size=256w&id=TYbHdZOX61hh&format=png)**common\_player\_info\_final**
 
 |**Nombre columna**|**Tipo**|**Descripción**|**Ejemplo**|
 | :- | :- | :- | :- |
@@ -33,7 +33,7 @@ Incluye información sobre el contenido de las columnas de las tablas (en format
 |greatest\_75\_flag|String (boolean)|Indica si el jugador fue seleccionado como uno de los 75 mejores jugadores de la historia de la NBA (Y para sí, N para no).|Y|
 
 
-**Tabla: draft\_history\_final**
+![alt text](https://img.icons8.com/?size=256w&id=qGFhaTgkeX1i&format=png)**draft\_history\_final**
 
 |<a name="_hlk192831600"></a>**Nombre columna**|**Tipo**|**Descripción**|**Ejemplo**|
 | :- | :- | :- | :- |
@@ -54,7 +54,7 @@ Incluye información sobre el contenido de las columnas de las tablas (en format
 
 
 
-**Tabla: games\_lakers\_tres\_temporadas**
+![alt text](https://img.icons8.com/?size=256w&id=VJV9Qy0AKmnK&format=png)**games\_lakers\_tres\_temporadas**
 
 |**Nombre columna**|**Tipo**|**Descripción**|**Ejemplo**|
 | :- | :- | :- | :- |
@@ -114,7 +114,7 @@ Incluye información sobre el contenido de las columnas de las tablas (en format
 |plus\_minus\_away|Entero|Diferencia de puntos (puntos del local – puntos del visitante)|-10|
 |video\_available\_away|boolean|Indicador de disponibilidad de video del partido (1 si hay video, 0 si no)|1|
 
-**Tabla: line\_scored\_filtered**
+![alt text](https://img.icons8.com/?size=256w&id=LlKqAJgwqBYJ&format=png)**line\_scored\_filtered**
 
 |**Nombre columna**|**Tipo**|**Descripción**|**Ejemplo**|
 | :- | :- | :- | :- |
@@ -131,7 +131,7 @@ Incluye información sobre el contenido de las columnas de las tablas (en format
 |pts\_away|float|Puntos totales del equipo visitante|124\.0|
 
 
-**Tabla: other\_stats\_filtered**
+![alt text](https://img.icons8.com/?size=256w&id=WrbqKCA5iaWe&format=png)**other\_stats\_filtered**
 
 |**Nombre columna**|**Tipo**|**Descripción**|**Ejemplo**|
 | :- | :- | :- | :- |
